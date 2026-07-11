@@ -1,0 +1,5 @@
+Crea una landing page para restaurant de comida rapida, con menu, boton de WhatsApp, colores negro y rojo, estilo moderno y version movil. relizala en Next.js (React), con opcion de carrito de compra, con visualizacion de pedidos a produccion para la realizacion del producto sin perdida de tiempo y de forma automatizada.
+
+te dejo esquema general de funcionamiento:
+
+Pedido a travez de landing page ======> interface de visualizacion de pedido (al verificarse pago) ======> Entrega de producto
