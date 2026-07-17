@@ -14,17 +14,17 @@ export default function DemoBanner() {
           </span>
           <div>
             <p className="font-bold">Plantilla Web para Restaurantes (Versión Demo)</p>
-            <p className="text-blue-200 text-xs mt-0.5">Precio Base: <strong className="text-white">$300</strong> (+ adicionales a convenir)</p>
+            <p className="text-blue-200 text-xs mt-0.5">Por tan solo: <strong className="text-white">$20 Mensual</strong> (+ adicionales a convenir)</p>
           </div>
         </div>
         <div className="flex items-center gap-3 w-full sm:w-auto">
-          <a 
+          <a
             href="/cocina"
             className="flex-1 sm:flex-none flex items-center justify-center gap-2 bg-indigo-500/20 border border-indigo-400 text-indigo-100 hover:bg-indigo-500/40 px-5 py-2 rounded-full font-bold transition-all hover:scale-105 active:scale-95"
           >
             Panel Cocina
           </a>
-          <a 
+          <a
             href={waUrl}
             target="_blank"
             rel="noopener noreferrer"
